@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Mahadeo Raut</h1>
-<h3 align="center">A passionate Web developer from Pune, India</h3>
+<h3 align="center">A passionate Cloud Engineer from Pune, India</h3>
 <img align="right" alt='coding' width="400" src="https://miro.medium.com/v2/resize:fit:1326/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavraut015&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavraut015" /> </p>
 
-- 🔭 I’m currently working on **Travel Booking system**
+- 🔭 I’m currently working on **Dedicated Cloud Support**
 
-- 🌱 I’m currently learning **Fundamentals of Azure cloud and Network administration**
+- 🌱 I’m currently learning **Azure cloud  Architech and Network Security**
 
-- 👯 I’m looking to collaborate on **Front end developement projects**
+- 👯 I’m looking to collaborate on **Devops and CI/CD pipelines developement**
 
-- 🤝 I’m looking for help with **Full stack developement**
+- 🤝 I’m looking for help with **Cloud and devops**
 
 - 👨‍💻 All of my projects are available at [https://vaibhavraut015.github.io/portfolio-realwebsite/#portfolio](https://vaibhavraut015.github.io/portfolio-realwebsite/#portfolio)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, VMeare, Network support and Azure cloud**
+- 💬 Ask me about **Azure, Technical support, Office365 Administration, VMeare, Microsoft Intune, Network support and Azure cloud**
 
 - 📫 How to reach me **vaibhavraut015@gmail.com**
 
